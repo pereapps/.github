@@ -83,11 +83,13 @@ Support options will be announced soon.
 
 ## Stay Connected
 
-**Website:** https://getpere.com
-
-**GitHub:** https://github.com/pereapps
+- **Website:** [getpere.com](https://getpere.com)
+- **GitHub:** [github.com/pereapps](https://github.com/pereapps)
+- **Email:** [hello@getpere.com](mailto:hello@getpere.com)
 
 Have an idea, found a bug, or want to suggest an improvement? Visit the Issues section of the relevant application repository.
+
+For general inquiries, partnerships, or sponsorship opportunities, feel free to reach out via email.
 
 ---
 
